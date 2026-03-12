@@ -28,6 +28,8 @@ The script expects the following CSV files in the project root:
     *   Choose a city (Chicago, New York City, Washington).
     *   Choose a month (January - June, or "all").
     *   Choose a day (Monday - Sunday, or "all").
+    *   Choose to see Raw Data (Yes or No).
+    *   Lastly, Choose to restart (Yes or No).
 
 ## 📈 Statistics Calculated
 The application provides the following insights:
