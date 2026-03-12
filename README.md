@@ -46,7 +46,7 @@ The application provides the following insights:
 *   `display_raw_data()`: Interactive loop to browse the underlying CSV data.
 
 ## 👤 Author
-**Mompoloki Radimo**
+**YoungCino17**
 
 ## 📝 License
 This project is completed as part of a **Udacity** Data Science curriculum. All datasets and project rubrics are provided by Udacity.
